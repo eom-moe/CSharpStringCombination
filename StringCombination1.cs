@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+namespace Sample001
+{
     class Program
     {
         static void Main(string[] args)
@@ -54,3 +56,4 @@ using System.Text;
           return combination;
         }
     }
+}
